@@ -1,2 +1,3 @@
-# pyspark-creditcard-approval
-https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction
+# logistic enrollment
+
+https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success
